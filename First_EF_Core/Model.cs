@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Text;
 using Microsoft.EntityFrameworkCore;
 
+// Source: https://docs.microsoft.com/en-us/ef/core/get-started/index?tabs=visual-studio#run-from-visual-studio
+
 namespace First_EF_Core
 {
     public class Context : DbContext
